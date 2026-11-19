@@ -11,8 +11,6 @@ The data are not included. The analysis uses the public use file of the 2023–2
 - Stata, for data preparation.
 - R, for all analyses, with the packages haven, dplyr, survey, lavaan, semTools, psych, tidySEM, OpenMx and car.
 
-Version numbers: [to be added from sessionInfo() output].
-
 ## How to run the analysis
 
 1. In the Stata do-file and in every R script, set the data folder (`data_dir` in R) to the folder that contains the data file. The R scripts write all output to a subfolder of it, `R output`.
